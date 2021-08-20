@@ -1,0 +1,18 @@
+/*
+    Author: Humaun Kabir
+    Theame: Online Food Order
+    Version: 1.0
+*/
+*{
+    margin: 0 0;
+    padding: 0 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    width: 80%; 
+    border: 1px solid red;
+    margin: 0 auto;
+    padding: 1%;
+    
+}
